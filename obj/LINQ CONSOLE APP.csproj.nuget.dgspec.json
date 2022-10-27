@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Yadnyesh\\source\\repos\\LINQ CONSOLE APP\\LINQ CONSOLE APP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Yadnyesh\\source\\repos\\LINQ CONSOLE APP\\LINQ CONSOLE APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Yadnyesh\\source\\repos\\LINQ CONSOLE APP\\LINQ CONSOLE APP.csproj",
+        "projectName": "LINQ CONSOLE APP",
+        "projectPath": "C:\\Users\\Yadnyesh\\source\\repos\\LINQ CONSOLE APP\\LINQ CONSOLE APP.csproj",
+        "packagesPath": "C:\\Users\\Yadnyesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yadnyesh\\source\\repos\\LINQ CONSOLE APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yadnyesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
